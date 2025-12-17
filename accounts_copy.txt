@@ -1,0 +1,6 @@
+AccNo: 101, Name: Ghaffar, PIN: 7890, Balance: 500.00, Contact: 0300000000
+AccNo: 102, Name: Ayan Hameed, PIN: ayan, Balance: 0.00, Contact: 03343123734
+AccNo: 103, Name: Azan, PIN: 1234, Balance: 0.00, Contact: 03103986061
+AccNo: 104, Name: Hanif, PIN: 1234, Balance: 0.00, Contact: 0987642618
+AccNo: 105, Name: Shehram, PIN: 1234, Balance: 0.00, Contact: 036381018638
+AccNo: 106, Name: Yasir, PIN: 1234, Balance: 0.00, Contact: 03343123765
